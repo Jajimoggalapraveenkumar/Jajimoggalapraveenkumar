@@ -1,93 +1,181 @@
-# Hi 👋, I'm Praveen Kumar
+<h1 align="center">Hi 👋, I'm Praveen Kumar Jajimoggala</h1>
 
-### 🚀 Computer Science Engineering Student | Java Developer | Problem Solver
+<h3 align="center">
+Computer Science Engineering Student | Java Developer | Machine Learning Enthusiast | Problem Solver
+</h3>
 
-I'm a passionate Computer Science Engineering student with a strong foundation in Java, SQL, Data Structures, and Web Development. I enjoy building software solutions, solving coding challenges, and continuously learning new technologies.
+<p align="center">
+<a href="https://github.com/JajimoggalaPraveenkumar">
+<img src="https://komarev.com/ghpvc/?username=JajimoggalaPraveenkumar&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE Student at Sri Vasavi Engineering College
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently Learning Java Full Stack Development
-- 🔭 Working on Machine Learning and Healthcare Projects
-- ⚡ Solved 60+ Coding Problems on LeetCode & GeeksforGeeks
-- 🤝 Open to Internship and Software Development Opportunities
+🎓 B.Tech Computer Science Engineering Student at **Sri Vasavi Engineering College**
+
+💻 Passionate about Software Engineering, Java Development and Machine Learning
+
+🌱 Currently learning **Java Full Stack Development**, **Spring Boot**, and **DSA**
+
+🔭 Working on **AI-powered Healthcare Applications** using Machine Learning & CNN
+
+⚡ Solved **60+ Coding Problems** on LeetCode & GeeksforGeeks
+
+🤝 Looking for **Software Engineering Internship Opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### Programming Languages
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### 🦷 Early Detection of Dental Diseases using Machine Learning & CNN
+
+🔹 CNN-based disease detection system
+
+🔹 Image classification using TensorFlow
+
+🔹 Responsive web application
+
+🔹 Live Prediction Demo
+
+**Tech Stack**
+
+`Python` `TensorFlow` `CNN` `HTML` `CSS` `JavaScript`
+
+---
 
 ### 📚 Library Management System
-- Developed a Java-based Library Management System.
-- Implemented CRUD Operations using JDBC and MySQL.
-- Applied OOP Concepts and Database Connectivity.
 
-**Tech Stack:** Java, JDBC, MySQL
+🔹 Python desktop application
 
-### 🦷 Smart Healthcare Analysis
-- Disease Prediction using Machine Learning and CNN.
-- Image Analysis and Classification System.
-- User-friendly Web Interface.
+🔹 Book Issue & Return Management
 
-**Tech Stack:** Python, Machine Learning, HTML, CSS, JavaScript
+🔹 User-friendly Tkinter GUI
+
+**Tech Stack**
+
+`Python` `Tkinter`
+
+---
+
+## 💼 Experience
+
+### Google Android Developer Virtual Internship
+**AICTE Eduskills**
+
+- Android Development using Kotlin
+- Git Version Control
+- Collaborative Development
+
+---
+
+### Industrial Training
+
+**SIRI Power Systems Technologies Pvt. Ltd.**
+
+- Python Programming
+- Software Development Fundamentals
+- Team Collaboration
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Azure AI Fundamentals
-- NPTEL - Introduction to Internet of Things
-- NPTEL - Privacy and Security in Online Social Media
-- Google Android Developer Virtual Internship (AICTE Eduskills)
+🏅 Salesforce Certified Agentforce Specialist
+
+🏅 Microsoft Azure AI Fundamentals
+
+🏅 Introduction to Internet of Things – NPTEL
+
+🏅 Privacy and Security in Online Social Media – NPTEL
 
 ---
 
 ## 🏆 Achievements
 
-- Solved 60+ Coding Problems on LeetCode and GeeksforGeeks.
-- Completed Industrial Training at SIRI Power Systems Technologies Pvt Ltd.
-- Strong Foundation in Data Structures and Algorithms.
+⭐ Solved **60+ Coding Problems**
+
+⭐ State Board Typing Test
+
+- Paper I — 94/100
+- Paper II — 93/100
+
+⭐ Completed Industrial Training at SIRI Power Systems
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
+<p align="center">
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JajimoggalaPraveenkumar&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JajimoggalaPraveenkumar&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JajimoggalaPraveenkumar&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JajimoggalaPraveenkumar&layout=compact&theme=tokyonight"/>
 
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LeetCode: https://leetcode.com/YOUR_USERNAME
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/YOUR_USERNAME
+</p>
 
 ---
 
-### ⭐ "Code. Learn. Build. Repeat."
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JajimoggalaPraveenkumar&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/praveenkumar-jaimoggala-5877b6248">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/JajimoggalaPraveenkumar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+📧 **Email:** praveenkumarjaimoggala1@gmail.com
+
+💻 **LeetCode:** https://leetcode.com/u/9494912975-praveen/
+
+📚 **GeeksforGeeks:** https://www.geeksforgeeks.org/user/praveenkumarid81/
+
+---
+
+## 💡 Quote
+
+> **"Code • Learn • Build • Repeat 🚀"**
+
+---
+
+⭐ **Thanks for visiting my profile!**
