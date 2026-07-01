@@ -1,66 +1,64 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar Jajimoggala</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student | Java Developer | Machine Learning Enthusiast | Problem Solver
-</h3>
+# Hi 👋 I'm Praveen Kumar Jajimoggala
 
-<p align="center">
-<a href="https://github.com/JajimoggalaPraveenkumar">
-<img src="https://komarev.com/ghpvc/?username=JajimoggalaPraveenkumar&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+### 🚀 Computer Science Engineering Student | Java Developer | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+to+Software+Engineering+Internships" />
+
+<img src="https://komarev.com/ghpvc/?username=JajimoggalaPraveenkumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Passionate about Software Engineering & Java Development
+- 🌱 Learning **Java Full Stack | Spring Boot | DSA**
+- 🤖 Exploring **Machine Learning & AI**
+- 🏆 Salesforce Certified Agentforce Specialist
+- ⚡ Solved **60+ Coding Problems**
+- 🚀 Looking for **Software Engineering Internship Opportunities**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Featured Projects
 
-🎓 B.Tech Computer Science Engineering Student at **Sri Vasavi Engineering College**
+## 🦷 Early Detection of Dental Diseases using Machine Learning & CNN
 
-💻 Passionate about Software Engineering, Java Development and Machine Learning
+🔹 CNN-based disease detection
 
-🌱 Currently learning **Java Full Stack Development**, **Spring Boot**, and **DSA**
+🔹 Image Classification using TensorFlow
 
-🔭 Working on **AI-powered Healthcare Applications** using Machine Learning & CNN
+🔹 Responsive Web Application
 
-⚡ Solved **60+ Coding Problems** on LeetCode & GeeksforGeeks
+### 🚀 Live Demo
 
-🤝 Looking for **Software Engineering Internship Opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### Frameworks & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🦷 Early Detection of Dental Diseases using Machine Learning & CNN
-
-🔹 CNN-based disease detection system
-
-🔹 Image classification using TensorFlow
-
-🔹 Responsive web application
-
-🔹 Live Prediction Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://dental-image-classification-sooty.vercel.app/)
 
 **Tech Stack**
 
@@ -68,13 +66,13 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 ---
 
-### 📚 Library Management System
+## 📚 Library Management System
 
-🔹 Python desktop application
+🔹 Desktop Application
 
 🔹 Book Issue & Return Management
 
-🔹 User-friendly Tkinter GUI
+🔹 User-friendly GUI
 
 **Tech Stack**
 
@@ -82,9 +80,10 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Google Android Developer Virtual Internship
+## Google Android Developer Virtual Internship
+
 **AICTE Eduskills**
 
 - Android Development using Kotlin
@@ -93,17 +92,17 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 ---
 
-### Industrial Training
+## Industrial Training
 
 **SIRI Power Systems Technologies Pvt. Ltd.**
 
 - Python Programming
-- Software Development Fundamentals
+- Software Development
 - Team Collaboration
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 🏅 Salesforce Certified Agentforce Specialist
 
@@ -115,20 +114,17 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-⭐ Solved **60+ Coding Problems**
-
-⭐ State Board Typing Test
-
-- Paper I — 94/100
-- Paper II — 93/100
-
-⭐ Completed Industrial Training at SIRI Power Systems
+- ⭐ Solved **60+ Coding Problems**
+- ⭐ State Board Typing Test
+  - Paper-I : **94/100**
+  - Paper-II : **93/100**
+- ⭐ Industrial Training at SIRI Power Systems Technologies Pvt. Ltd.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -138,10 +134,6 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JajimoggalaPraveenkumar&theme=tokyonight"/>
@@ -150,32 +142,36 @@ Computer Science Engineering Student | Java Developer | Machine Learning Enthusi
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/praveenkumar-jaimoggala-5877b6248">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/JajimoggalaPraveenkumar">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:praveenkumarjaimoggala1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/9494912975-praveen/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/praveenkumarid81/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 </p>
 
-📧 **Email:** praveenkumarjaimoggala1@gmail.com
-
-💻 **LeetCode:** https://leetcode.com/u/9494912975-praveen/
-
-📚 **GeeksforGeeks:** https://www.geeksforgeeks.org/user/praveenkumarid81/
-
 ---
 
-## 💡 Quote
+<div align="center">
 
-> **"Code • Learn • Build • Repeat 🚀"**
+### ⭐ If you like my projects, consider giving them a star! ⭐
 
----
-
-⭐ **Thanks for visiting my profile!**
+</div>
